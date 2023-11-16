@@ -4,7 +4,7 @@
 ## - [ ] Internal Link
 ## - [ ] Images
 ![image](https://github.com/Aharon7/authoring/assets/150148536/9bac29c5-79aa-450e-9f7f-8addcd2e0b79)
-![image](https://github.com/Aharon7/authoring/assets/150148536/a1ea68cc-57e1-47ad-8441-fd0fac0c82aa)
+
 * https://github.com/WD-23-D10-A/bdl-publishing-authoring-Aharon7/tree/main/images
 ## - [ ] Emojis 
 :octocat:
@@ -55,6 +55,48 @@ Done? | Name
 |---|---|---|
 |&check;|_|&cross;|
 |&#x2611;|&#x2610;|&#x2612;|
+| Task           | Time required | Assigned to   | Current Status | Finished | 
+|----------------|---------------|---------------|----------------|-----------|
+| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
+| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+
+
+- [x] works
+- [x] works too
+
+
+| Projects | Operating Systems | Programming Languages   | CAM/CAD Programs | Microcontrollers and Processors | 
+|---------------------------------- |---------------|---------------|----------------|-----------|
+| <ul><li>[ ] Blog </li></ul>       | <ul><li>[ ] CentOS</li></ul>        | <ul><li>[ ] Python </li></ul> | <ul><li>[ ] AutoCAD Electrical </li></ul> | <ul><li>[ ] Arduino </li></ul> |
+| <ul><li>[ ] PyGame</li></ul>   | <ul><li>[ ] Fedora </li></ul>       | <ul><li>[ ] C</li></ul> | <ul><li>[ ] 3DsMax </li></ul> |<ul><li>[:heavy_check_mark:] Raspberry Pi </li></ul> |
+| <ul><li>[ ] Server Info Display</li></ul>| <ul><li>[ ] Ubuntu</li></ul> | <ul><li>[:white_check_mark:] C++ </li></ul> | <ul><li>[ ] Adobe AfterEffects </li></ul> |<ul><li>[ ]  </li></ul> |
+| <ul><li>[ ] Twitter Subs Bot </li></ul> | <ul><li>[ ] ROS </li></ul>    | <ul><li>[ ] C# </li></ul> | <ul><li>[ ] Adobe Illustrator </li></ul> |<ul><li>[ ]  </li></ul> |
+
+
+
+ID | Name | Rank
+-- | ---- | ----
+1 | Tom Preston-Werner | Awesome
+2 | Albert Einstein | Nearly as awesome
+
+
+Spalte 1 | Spalte 2 | Spalte 3
+-------- | -------- | --------
+Inhalt   | Inhalt   | Inhalt
+Inhalt   | Inhalt   | Inhalt
+
+
+subtasks
+* [ ] do a thing
+* [ ] do another thing
+* [ ] do the last thing
+
++ [ ] do a thing
++ [ ] do another thing
++ [ ] do the last thing
+
 
 
 
