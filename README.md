@@ -43,9 +43,9 @@ Done? | Name
 
 | Projects | Operating Systems | Programming Languages   | Tech | WebDev | 
 |---------------------------------- |---------------|---------------|----------------|-----------|
-| <ul><li>[ ] Java </li></ul>       | <ul><li>[ ] CentOS</li></ul>        | <ul><li>[ ] Python </li></ul> | <ul><li>[ ] NodeJS  </li></ul> | <ul><li>[ ] UNIX </li></ul> |
-| <ul><li>[ ] Kubernetes</li></ul>   | <ul><li>[ ] Fedora </li></ul>       | <ul><li>[ ] C </li></ul> | <ul><li>[ ] MongoDB </li></ul> |<ul><li>[ ] MacOS </li></ul> |
-| <ul><li>[ ] Docker</li></ul>| <ul><li>[ ] Ubuntu</li></ul> | <ul><li>[ ] C++ </li></ul> | <ul><li>[ ] ReactJS </li></ul> |<ul><li>[ ] Swift </li></ul> |
+| <ul><li>[ ] Mobile Apps </li></ul>       | <ul><li>[ ] CentOS</li></ul>        | <ul><li>[ ] Python </li></ul> | <ul><li>[ ] NodeJS  </li></ul> | <ul><li>[ ] UNIX </li></ul> |
+| <ul><li>[ ] Kubernetes</li></ul>   | <ul><li>[ ] Fedora </li></ul>       | <ul><li>[ ] C </li></ul> | <ul><li>[ ] MongoDB </li></ul> |<ul><li>[ ] SQL </li></ul> |
+| <ul><li>[ ] Docker</li></ul>| <ul><li>[ ] MacOS</li></ul> | <ul><li>[ ] C++ </li></ul> | <ul><li>[ ] ReactJS </li></ul> |<ul><li>[ ] Java </li></ul> |
 | <ul><li>[ ] JavaScript </li></ul> | <ul><li>[ ] RedHat </li></ul>    | <ul><li>[ ] C# </li></ul> | <ul><li>[ ] Objective-C </li></ul> |<ul><li>[ ] AngularJS  </li></ul> |
 
 
