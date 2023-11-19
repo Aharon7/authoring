@@ -56,11 +56,11 @@ Done? | Name
 
 
 
-- [ ] https://help.github.com/en
-- [ ] Internal Link
-- [ ] Images
-- [ ] :octocat:Emojis
-- [ ] Tables
+- [x] https://help.github.com/en
+- [x] Internal Link
+- [x] Images
+- [x] :octocat:Emojis
+- [x] Tables
       
 
 
