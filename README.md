@@ -25,10 +25,7 @@ substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
 :------------ | :-------------| :-------------| :-------------
 
 
-Done? | Name
-:---:| ---
-⬜️| Nope
-✅| Yep
+
 
 |checked|unchecked|crossed|
 |---|---|---|
